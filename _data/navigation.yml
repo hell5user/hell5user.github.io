@@ -10,6 +10,13 @@ main:
 #    url: /collection-archive/
 #  - title: "Sitemap"
 #    url: /sitemap/
+
+  # - title: "Categories"
+  #   url: http://localhost:4000/categories
+  # - title: "Tags"
+  #   url: http://localhost:4000/tags
+  # - title: "Home"
+  #   url: http://localhost:4000/
   - title: "Categories"
     url: https://hell5user.github.io/categories
   - title: "Tags"
@@ -19,9 +26,15 @@ main:
 
 # sidebar Links
 docs:
+  # - title: "Coding Test"
+  #   children:
+  #     - title: "프로그래머스"
+  #       url: http://localhost:4000/categories/#programmers
+  #     - title: "백준"
+  #       url: http://localhost:4000/categories/#boj
   - title: "Coding Test"
     children:
       - title: "프로그래머스"
-        url: https://hell5user.github.io/categories/#프로그래머스
+        url: https://hell5user.github.io/categories/#programmers
       - title: "백준"
-        url: https://hell5user.github.io/categories/#백준
+        url: https://hell5user.github.io/categories/#boj
