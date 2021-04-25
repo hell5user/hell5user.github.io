@@ -1,12 +1,27 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+#  - title: "Quick-Start Guide"
+#    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+#  - title: "About"
+#    url: https://mmistakes.github.io/minimal-mistakes/about/
+#  - title: "Sample Posts"
+#    url: /year-archive/
+#  - title: "Sample Collections"
+#    url: /collection-archive/
+#  - title: "Sitemap"
+#    url: /sitemap/
+  - title: "Categories"
+    url: https://hell5user.github.io/categories
+  - title: "Tags"
+    url: https://hell5user.github.io/tags
+  - title: "Home"
+    url: https://hell5user.github.io/
+
+# sidebar Links
+docs:
+  - title: "Coding Test"
+    children:
+      - title: "프로그래머스"
+        url: https://hell5user.github.io/categories/#프로그래머스
+      - title: "백준"
+        url: https://hell5user.github.io/categories/#백준
