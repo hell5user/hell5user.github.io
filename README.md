@@ -275,6 +275,6 @@ Lunr is distributed under the terms of the [MIT License](http://opensource.org/l
 
 ## 참고
 
-https://ansohxxn.github.io/categories/#blog
-https://2ssue.github.io/blog/make_jekyll_blog/
-https://jekyllrb-ko.github.io/docs/front-matter/
+https://ansohxxn.github.io/categories/#blog  
+https://2ssue.github.io/blog/make_jekyll_blog/  
+https://jekyllrb-ko.github.io/docs/front-matter/  
